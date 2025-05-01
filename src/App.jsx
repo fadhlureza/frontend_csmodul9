@@ -73,7 +73,7 @@ function App() {
           <div className="space-y-4">
             <div onClick={() => window.location.href = '/account'} className="flex items-center space-x-4 cursor-pointer mb-8">
               <img src={user} alt="user" className="w-8 h-8 rounded-full border-2 border-black"/>
-              <span className="whitespace-nowrap overflow-hidden hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-500 hover:to-violet-500 font-medium">John Doe</span>
+              <span className="whitespace-nowrap overflow-hidden hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-500 hover:to-violet-500 font-medium">Fadhlureza Sebastian</span>
             </div>
 
             <div onClick={() => window.location.href = '/register'} className="flex items-center space-x-4 cursor-pointer">
